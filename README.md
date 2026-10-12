@@ -3,4 +3,4 @@ Another tool for the Aramith DigiBall. AsyncBurn generates DigiBall overlays fro
 
 This is experimental. Clock drift between two asynchronous devices may be a problem for long videos.
 
-See www.digiball.net for more information."# digiball_asyncburn" 
+See www.digicue.net for more information.
